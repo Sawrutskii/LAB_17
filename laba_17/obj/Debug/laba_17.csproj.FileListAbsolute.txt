@@ -1,0 +1,10 @@
+D:\Installing\VS\Projects\lab_17\laba_17\bin\Debug\laba_17.exe.config
+D:\Installing\VS\Projects\lab_17\laba_17\bin\Debug\laba_17.exe
+D:\Installing\VS\Projects\lab_17\laba_17\bin\Debug\laba_17.pdb
+D:\Installing\VS\Projects\lab_17\laba_17\obj\Debug\laba_17.csproj.AssemblyReference.cache
+D:\Installing\VS\Projects\lab_17\laba_17\obj\Debug\laba_17.csproj.SuggestedBindingRedirects.cache
+D:\Installing\VS\Projects\lab_17\laba_17\obj\Debug\laba_17.Properties.Resources.resources
+D:\Installing\VS\Projects\lab_17\laba_17\obj\Debug\laba_17.csproj.GenerateResource.cache
+D:\Installing\VS\Projects\lab_17\laba_17\obj\Debug\laba_17.csproj.CoreCompileInputs.cache
+D:\Installing\VS\Projects\lab_17\laba_17\obj\Debug\laba_17.exe
+D:\Installing\VS\Projects\lab_17\laba_17\obj\Debug\laba_17.pdb
