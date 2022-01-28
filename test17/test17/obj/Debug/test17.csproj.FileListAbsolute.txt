@@ -1,0 +1,11 @@
+D:\Installing\VS\Projects\lab_17\test17\test17\bin\Debug\test17.exe.config
+D:\Installing\VS\Projects\lab_17\test17\test17\bin\Debug\test17.exe
+D:\Installing\VS\Projects\lab_17\test17\test17\bin\Debug\test17.pdb
+D:\Installing\VS\Projects\lab_17\test17\test17\obj\Debug\test17.csproj.AssemblyReference.cache
+D:\Installing\VS\Projects\lab_17\test17\test17\obj\Debug\test17.csproj.SuggestedBindingRedirects.cache
+D:\Installing\VS\Projects\lab_17\test17\test17\obj\Debug\test17.Form1.resources
+D:\Installing\VS\Projects\lab_17\test17\test17\obj\Debug\test17.Properties.Resources.resources
+D:\Installing\VS\Projects\lab_17\test17\test17\obj\Debug\test17.csproj.GenerateResource.cache
+D:\Installing\VS\Projects\lab_17\test17\test17\obj\Debug\test17.csproj.CoreCompileInputs.cache
+D:\Installing\VS\Projects\lab_17\test17\test17\obj\Debug\test17.exe
+D:\Installing\VS\Projects\lab_17\test17\test17\obj\Debug\test17.pdb
