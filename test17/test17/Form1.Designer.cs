@@ -209,7 +209,7 @@
             this.Controls.Add(this.YnumericUpDown);
             this.Controls.Add(this.XnumericUpDown);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Украина";
             ((System.ComponentModel.ISupportInitialize)(this.XnumericUpDown)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.YnumericUpDown)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
